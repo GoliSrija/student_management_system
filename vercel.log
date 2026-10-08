@@ -1,34 +1,17 @@
 STDOUT
-https://frontend-jpmgjhfph-golisrijas-projects.vercel.app
+https://frontend-d6ulc5cq3-golisrijas-projects.vercel.app
 
 STDERR
 Vercel CLI 59.1.3 (Node.js 22.14.0)
-
-  Directory       ~\OneDrive\Desktop\projects\AISTool\backend\generated_projects\student_management_system\frontend
-
-Loading teamsâ€¦
-  Team            golisrijas-projects
-Searching for existing projectsâ€¦
-Searching for existing projectsâ€¦
-
-âœ“ Linked          golisrijas-projects/frontend
-
-Retrieving projectâ€¦
-> Downloading `development` environment variables for golisrijas-projects/frontend
-Downloading
-
-âœ“ Created         .env.local file and added it to .gitignore
-Deploying golisrijas-projects/frontend
-Uploading [--------------------] (0.0B/1.4KB)
-Uploading [======--------------] (441.0B/1.4KB)
-Uploading [=============-------] (945.0B/1.4KB)
-Uploading [====================] (1.4KB/1.4KB)
-  Inspect         https://vercel.com/golisrijas-projects/frontend/3Yhw2rgZaqwcCmkpjgUG435N5bNb
-  Production      https://frontend-jpmgjhfph-golisrijas-projects.vercel.app
+Deploying frontend
+Uploading [--------------------] (0.0B/504B)
+Uploading [====================] (504.0B/504B)
+  Inspect         https://vercel.com/golisrijas-projects/frontend/49w914NZtaTASwRdorGAU7ymW2RV
+  Production      https://frontend-d6ulc5cq3-golisrijas-projects.vercel.app
 Buildingâ€¦
 Buildingâ€¦
-[2K[1A[2K[G  Production      https://frontend-jpmgjhfph-golisrijas-projects.vercel.app
+[2K[1A[2K[G  Production      https://frontend-d6ulc5cq3-golisrijas-projects.vercel.app
 Completingâ€¦
 â–² Aliased         https://frontend-mu-dusky-fprlm339b7.vercel.app
 
-âœ“ Ready in 4s
+âœ“ Ready in 6s
